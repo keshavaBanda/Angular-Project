@@ -1,2 +1,2 @@
 # Angular-Project
-Use this Repo for angular course information &amp; Project
+Use this Repo for angular course information &amp; Projects
